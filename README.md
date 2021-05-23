@@ -3,6 +3,8 @@ A Kosmo format slew limiter. Not tested, but it is very simple and probably work
 
 ![Slew Limiter](https://github.com/Sonosus/SlewLimiter/blob/main/SlewLimRender.png)
 
+This is a dual PCB of the circuit [here](http://synovatron.blogspot.com/p/diy-ideas.html). All credit to the original author.
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
