@@ -1,4 +1,6 @@
-# Title
+# Slew Limiter
+A Kosmo format slew limiter. Not tested, but it is very simple and probably works.
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
